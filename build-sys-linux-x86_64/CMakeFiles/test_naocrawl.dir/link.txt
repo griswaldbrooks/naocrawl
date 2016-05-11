@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/test_naocrawl.dir/test.cpp.o  -o sdk/bin/test_naocrawl -rdynamic -Wl,-rpath,:::::::::::::: 

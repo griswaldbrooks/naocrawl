@@ -1,0 +1,2 @@
+/home/crrl-user1/code_projects/nao_worktree/naocrawl/build-remote_toolchain/CMakeFiles/naocrawl.dir
+/home/crrl-user1/code_projects/nao_worktree/naocrawl/build-remote_toolchain/CMakeFiles/test_naocrawl.dir

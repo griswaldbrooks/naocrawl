@@ -1,0 +1,1 @@
+--name;test_naocrawl;--timeout;20;--;/home/crrl-user1/code_projects/nao_worktree/naocrawl/build-remote_toolchain/sdk/bin/test_naocrawl
